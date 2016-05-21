@@ -3,10 +3,17 @@
     <Registro_Historico>
         <Registro>
             <Nombre_Cliente> Silvia Elena Alpizar </Nombre_Cliente>
-            <Monto_Prestamo_Otorgado> 20000.0 </Monto_Prestamo_Otorgado>
+            <Monto_Prestamo_Otorgado> 200000.0 </Monto_Prestamo_Otorgado>
+            <Plazo_Prestamo> 4 </Plazo_Prestamo>
+            <Interes_Prestamo> 0.19 </Interes_Prestamo>
+            <Sistema> Aleman </Sistema>
+        </Registro>
+    <Registro>
+            <Nombre_Cliente> Valery Alpizar </Nombre_Cliente>
+            <Monto_Prestamo_Otorgado> 60000.0 </Monto_Prestamo_Otorgado>
             <Plazo_Prestamo> 5 </Plazo_Prestamo>
             <Interes_Prestamo> 0.15 </Interes_Prestamo>
-            <Sistema> Aleman </Sistema>
+            <Sistema> Frances </Sistema>
         </Registro>
     </Registro_Historico>
 </Sistema_Amortizacion>

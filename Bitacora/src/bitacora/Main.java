@@ -16,11 +16,15 @@ public class Main {
      */
     public static void main(String[] args) throws Exception {
         // TODO code application logic here
-        
+
         Bitacora bit = new BitacoraCSV();
         bit.añadirRegristro("Silvia Elena Alpizar", 200000, 4, 0.19, "Aleman");
         bit.añadirRegristro("Valery Alpizar", 60000, 5, 0.15, "Frances");
-        
+
+        Bitacora bit2 = new BitacoraXML();
+        bit2.añadirRegristro("Silvia Elena Alpizar", 200000, 4, 0.19, "Aleman");
+        bit2.añadirRegristro("Valery Alpizar", 60000, 5, 0.15, "Frances");
+
     }
-    
+
 }
