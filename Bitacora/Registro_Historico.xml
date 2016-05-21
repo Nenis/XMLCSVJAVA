@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sistema_Amortizacion>
+    <Registro_Historico>
+        <Registro>
+            <Nombre_Cliente> Silvia Elena Alpizar </Nombre_Cliente>
+            <Monto_Prestamo_Otorgado> 20000.0 </Monto_Prestamo_Otorgado>
+            <Plazo_Prestamo> 5 </Plazo_Prestamo>
+            <Interes_Prestamo> 0.15 </Interes_Prestamo>
+            <Sistema> Aleman </Sistema>
+        </Registro>
+    </Registro_Historico>
+</Sistema_Amortizacion>
